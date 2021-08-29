@@ -1,0 +1,15 @@
+Fully Anonymous Profile Matching in Mobile Social Network
+1. Community-Aware Opportunistic Routing in Mobile Social Networks
+2. A Generalized Flow-Based Method for Analysis of Implicit Relationships on Wikipedia
+3. Privacy against Aggregate Knowledge Attacks
+4. Image Authentication Using Stochastic Diffusion
+5.A Methodology for Direct and Indirect Discrimination Prevention in Data Mining
+6.Dynamic Personalized Recommendation on Sparse Data
+7.A Privacy Leakage Upper-bound Constraint based Approach for Cost-effective Privacy Preserving of Intermediate Datasets in Cloud
+8.Two tales of privacy in online social networks
+9.Dynamic Resource Allocation using Virtual Machines for Cloud Computing Environment
+10.Fairness AwareAnd privacy Preserving Friend Matching protocol In Mobile social Network
+11.Collaboration in Multicloud Computing Environments Framework and Security Issues
+12.Framework of Data Integrity for Cross Cloud Environment Using CPDP Scheme
+13.Message in a Sealed Bottle:Privacy Preserving Friending in Social Networks
+14.Learning Regularized, Query-dependent Bilinear Similaritiesfor Large Scale Image Retrieval

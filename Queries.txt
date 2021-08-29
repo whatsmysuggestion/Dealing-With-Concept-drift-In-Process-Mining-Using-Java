@@ -1,0 +1,16 @@
+create database drift;
+use drift;
+create table profile(id int,name char(50),email char(50),password char(50),phone char(50),strDateNew char(50),message char(50));
+
+
+create table detect(id int,agentid char(50),agentname char(50),agentemail char(50),login char(50),agentfile int,compose int,distributorfile int,logout int,viewkey int,download int,status char(50),date char(50));
+insert into detect values(1,'agent1','sreedhar','bsdr87@gmail.com','sreedhar',1,1,1,1,1,1,'unlock','3-31-2015');
+
+create table agentfile(status char(50),username char(50),subject char(50),filename char(50), sender char(50),date char(50));
+insert into agentfile values('unlock','sreedhar','subject line','a.txt','sreedhar','3-31-2015');
+
+create table file(filename char(50),subject char(50),datafile char(50),name char(50),id int,date char(50),skey int,lockval  char(50));
+
+insert into file values('a.txt','subject line','a.txt','sreedhar',1,'3-31-2015',1,'unlock');
+
+create table datafile(filename char(50));
